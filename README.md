@@ -321,10 +321,6 @@ This project provided practical experience in:
 
 Data Analytics and Artificial Intelligence Student
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
 ---
 
 # Acknowledgements
